@@ -1,4 +1,4 @@
-1. Problema: Sistema de Gestión de Inventarios
+1. Problema: Sistema de Gestión de Inventarios (Tienda)
 
 Descripción:
 Una pequeña empresa necesita un sistema para gestionar su inventario de productos. El sistema debe permitir al personal realizar las siguientes operaciones:

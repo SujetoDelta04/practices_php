@@ -3,9 +3,9 @@
 Descripción:
 Una pequeña empresa necesita un sistema para gestionar su inventario de productos. El sistema debe permitir al personal realizar las siguientes operaciones:
 
-Agregar nuevos productos al inventario, especificando el nombre del producto, la cantidad disponible, el precio unitario y cualquier otra información relevante.
-Actualizar la cantidad disponible de productos existentes cuando se realiza una venta o se recibe un nuevo suministro.
-Registrar ventas de productos y calcular el monto total de la venta.
-Generar informes de inventario que muestren la lista de productos disponibles, la cantidad disponible de cada producto y el valor total del inventario.
-Permitir a los administradores buscar productos por nombre, categoría o cualquier otro criterio relevante.
-Proporcionar una interfaz amigable y segura para que el personal acceda y realice estas operaciones.
+-Agregar nuevos productos al inventario, especificando el nombre del producto, la cantidad disponible, el precio unitario y cualquier otra información relevante.
+-Actualizar la cantidad disponible de productos existentes cuando se realiza una venta o se recibe un nuevo suministro.
+-Registrar ventas de productos y calcular el monto total de la venta.
+-Generar informes de inventario que muestren la lista de productos disponibles, la cantidad disponible de cada producto y el valor total del inventario.
+-Permitir a los administradores buscar productos por nombre, categoría o cualquier otro criterio relevante.
+-Proporcionar una interfaz amigable y segura para que el personal acceda y realice estas operaciones.
